@@ -1,0 +1,110 @@
+[
+  {
+    "careerId": "c1",
+    "demandScore": 92,
+    "projectedGrowthPct": 19,
+    "openingsEstimate": 5400,
+    "signal": "Hot",
+    "source": "SA ICT hiring trend model",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c2",
+    "demandScore": 88,
+    "projectedGrowthPct": 14,
+    "openingsEstimate": 6200,
+    "signal": "Hot",
+    "source": "Health workforce shortage index",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c3",
+    "demandScore": 90,
+    "projectedGrowthPct": 16,
+    "openingsEstimate": 3100,
+    "signal": "Hot",
+    "source": "Energy transition hiring model",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c4",
+    "demandScore": 79,
+    "projectedGrowthPct": 9,
+    "openingsEstimate": 1900,
+    "signal": "Strong",
+    "source": "Finance skills demand index",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c5",
+    "demandScore": 91,
+    "projectedGrowthPct": 21,
+    "openingsEstimate": 2800,
+    "signal": "Hot",
+    "source": "Data economy growth outlook",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c6",
+    "demandScore": 83,
+    "projectedGrowthPct": 11,
+    "openingsEstimate": 2600,
+    "signal": "Strong",
+    "source": "Infrastructure project pipeline",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c7",
+    "demandScore": 86,
+    "projectedGrowthPct": 13,
+    "openingsEstimate": 4700,
+    "signal": "Hot",
+    "source": "Teacher vacancy trend",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c8",
+    "demandScore": 89,
+    "projectedGrowthPct": 18,
+    "openingsEstimate": 1700,
+    "signal": "Hot",
+    "source": "Cyber risk hiring tracker",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c9",
+    "demandScore": 61,
+    "projectedGrowthPct": 4,
+    "openingsEstimate": 1400,
+    "signal": "Stable",
+    "source": "Transport and fleet maintenance trend",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c10",
+    "demandScore": 67,
+    "projectedGrowthPct": 6,
+    "openingsEstimate": 1200,
+    "signal": "Stable",
+    "source": "Pharma and hospital staffing index",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c11",
+    "demandScore": 84,
+    "projectedGrowthPct": 12,
+    "openingsEstimate": 3500,
+    "signal": "Strong",
+    "source": "Digital commerce demand index",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "careerId": "c12",
+    "demandScore": 93,
+    "projectedGrowthPct": 24,
+    "openingsEstimate": 2600,
+    "signal": "Hot",
+    "source": "Renewables deployment outlook",
+    "lastUpdated": "2026-04-10"
+  }
+]

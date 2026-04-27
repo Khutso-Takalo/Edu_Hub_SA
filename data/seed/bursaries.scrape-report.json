@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-04-15T21:26:09.958Z",
+  "sourceCount": 4,
+  "outputCount": 4,
+  "fallbackCount": 3,
+  "mergeIntoSeed": true,
+  "seedPath": "src/data/seed/bursaries.json",
+  "outputPath": "data/seed/bursaries.scraped.json",
+  "sources": [
+    {
+      "source": "https://www.nsfas.org.za",
+      "generatedRows": 1,
+      "fallbackRows": 1
+    },
+    {
+      "source": "https://www.sasol.com",
+      "generatedRows": 1,
+      "fallbackRows": 0
+    },
+    {
+      "source": "https://www.eskom.co.za",
+      "generatedRows": 1,
+      "fallbackRows": 1
+    },
+    {
+      "source": "https://www.oldmutual.com",
+      "generatedRows": 1,
+      "fallbackRows": 1
+    }
+  ]
+}

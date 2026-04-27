@@ -1,0 +1,234 @@
+[
+  {
+    "sourceId": "nsfas",
+    "sourceName": "NSFAS",
+    "sourceUrl": "https://www.nsfas.org.za",
+    "layer": "opportunity",
+    "priority": "highest",
+    "status": "unreachable",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "bursary",
+      "funding",
+      "application",
+      "student",
+      "study",
+      "application dates",
+      "eligibility",
+      "required documents",
+      "official contacts",
+      "nsfas"
+    ],
+    "note": "Source could not be fetched: TypeError: fetch failed"
+  },
+  {
+    "sourceId": "sayouth",
+    "sourceName": "SA Youth",
+    "sourceUrl": "https://sayouth.mobi",
+    "layer": "opportunity",
+    "priority": "high",
+    "status": "fallback",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "job",
+      "learnership",
+      "internship",
+      "apprenticeship",
+      "opportunity",
+      "job titles",
+      "requirements",
+      "locations",
+      "closing dates",
+      "sa",
+      "youth"
+    ],
+    "note": "Source page was reachable, but no matching links were detected."
+  },
+  {
+    "sourceId": "nefcorp",
+    "sourceName": "NEFCORP",
+    "sourceUrl": "https://www.nefcorp.co.za",
+    "layer": "alternative-funding",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [
+      {
+        "url": "https://www.nefcorp.co.za/#content",
+        "text": "skip to Main Content"
+      },
+      {
+        "url": "https://www.nefcorp.co.za/",
+        "text": "Source link"
+      },
+      {
+        "url": "https://twitter.com/NEFCORP",
+        "text": "Source link"
+      },
+      {
+        "url": "https://www.nefcorp.co.za/#",
+        "text": "Open Mobile Menu"
+      }
+    ],
+    "keywordsUsed": [
+      "funding",
+      "entrepreneurship",
+      "grant",
+      "youth",
+      "business",
+      "loan",
+      "funding products",
+      "eligibility",
+      "application steps",
+      "contact channels",
+      "nefcorp"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "dbe-papers",
+    "sourceName": "DBE Past Papers",
+    "sourceUrl": "https://wcedeportal.co.za",
+    "layer": "resources",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [
+      {
+        "url": "https://wcedeportal.co.za/rainbow-workbooks",
+        "text": "DBE Rainbow Workbooks"
+      },
+      {
+        "url": "https://wcedeportal.co.za/grade12-subject-revision",
+        "text": "Gr. 12 Subject Revision"
+      },
+      {
+        "url": "https://wcedeportal.co.za/grade12-subject-support",
+        "text": "Gr. 12 Subject Support"
+      },
+      {
+        "url": "https://www.westerncape.gov.za/education/exams",
+        "text": "NSC & SC FAQ"
+      }
+    ],
+    "keywordsUsed": [
+      "paper",
+      "memo",
+      "exam",
+      "past paper",
+      "pdf",
+      "subject",
+      "year",
+      "paper type",
+      "memo link",
+      "dbe",
+      "past",
+      "papers"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "siyavula",
+    "sourceName": "Siyavula",
+    "sourceUrl": "https://www.siyavula.com",
+    "layer": "resources",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [
+      {
+        "url": "https://www.siyavula.com/",
+        "text": "Source link"
+      },
+      {
+        "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
+        "text": "Yes, I reside in South Africa"
+      },
+      {
+        "url": "https://www.siyavula.com/select-region",
+        "text": "Change country/curriculum"
+      },
+      {
+        "url": "https://www.siyavula.com/products/learners",
+        "text": "Find out more"
+      }
+    ],
+    "keywordsUsed": [
+      "textbook",
+      "worksheet",
+      "lesson",
+      "grade",
+      "caps",
+      "open textbooks",
+      "subject",
+      "language",
+      "siyavula"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "siu",
+    "sourceName": "SIU Reports",
+    "sourceUrl": "https://www.siu.org.za",
+    "layer": "trust-safety",
+    "priority": "high",
+    "status": "unreachable",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "fraud",
+      "scam",
+      "warning",
+      "report",
+      "corruption",
+      "fraud entities",
+      "fraud patterns",
+      "notices",
+      "siu",
+      "reports"
+    ],
+    "note": "Source could not be fetched: TypeError: fetch failed"
+  },
+  {
+    "sourceId": "sadag",
+    "sourceName": "SADAG Helplines",
+    "sourceUrl": "https://www.sadag.org",
+    "layer": "wellbeing",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:37:01.225Z",
+    "matchedLinks": [
+      {
+        "url": "http://twitter.com/TheSADAG",
+        "text": "Source link"
+      },
+      {
+        "url": "https://www.instagram.com/sadag_official/",
+        "text": "Source link"
+      },
+      {
+        "url": "https://www.tiktok.com/@sadag_official?is_from_webapp=1&amp;sender_device=pc",
+        "text": "Source link"
+      },
+      {
+        "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=3122&amp;Itemid=140",
+        "text": "Source link"
+      }
+    ],
+    "keywordsUsed": [
+      "helpline",
+      "counselling",
+      "support",
+      "crisis",
+      "service",
+      "helpline numbers",
+      "hours",
+      "service categories",
+      "sadag",
+      "helplines"
+    ],
+    "note": "Matched 4 link(s)."
+  }
+]

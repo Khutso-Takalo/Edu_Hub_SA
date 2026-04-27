@@ -1,0 +1,122 @@
+[
+  {
+    "id": "i1",
+    "name": "University of the Witwatersrand",
+    "type": "University",
+    "location": "Johannesburg",
+    "province": "Gauteng",
+    "website": "https://www.wits.ac.za",
+    "courses": ["Engineering", "Medicine", "Law", "Commerce", "Science", "Humanities"],
+    "image": "",
+    "description": "One of Africa's leading research universities, known for excellence in engineering, medicine, and sciences.",
+    "rating": 4.7
+  },
+  {
+    "id": "i2",
+    "name": "University of Cape Town",
+    "type": "University",
+    "location": "Cape Town",
+    "province": "Western Cape",
+    "website": "https://www.uct.ac.za",
+    "courses": ["Medicine", "Engineering", "Commerce", "Law", "Humanities", "Science"],
+    "image": "",
+    "description": "Africa's oldest university and consistently ranked as the top university on the continent.",
+    "rating": 4.8
+  },
+  {
+    "id": "i3",
+    "name": "University of Pretoria",
+    "type": "University",
+    "location": "Pretoria",
+    "province": "Gauteng",
+    "website": "https://www.up.ac.za",
+    "courses": ["Engineering", "Veterinary Science", "Agriculture", "Education", "Law", "IT"],
+    "image": "",
+    "description": "A leading research-intensive university offering a wide range of undergraduate and postgraduate programmes.",
+    "rating": 4.6
+  },
+  {
+    "id": "i4",
+    "name": "Stellenbosch University",
+    "type": "University",
+    "location": "Stellenbosch",
+    "province": "Western Cape",
+    "website": "https://www.sun.ac.za",
+    "courses": ["Engineering", "Agriculture", "Commerce", "Science", "Education", "Arts"],
+    "image": "",
+    "description": "A world-class university known for innovation, research excellence, and beautiful campus setting.",
+    "rating": 4.7
+  },
+  {
+    "id": "i5",
+    "name": "University of Johannesburg",
+    "type": "University",
+    "location": "Johannesburg",
+    "province": "Gauteng",
+    "website": "https://www.uj.ac.za",
+    "courses": ["Engineering", "IT", "Commerce", "Education", "Health Sciences", "Law"],
+    "image": "",
+    "description": "A vibrant, multicultural university offering accessible quality education in the heart of Johannesburg.",
+    "rating": 4.4
+  },
+  {
+    "id": "i6",
+    "name": "Durban University of Technology",
+    "type": "University",
+    "location": "Durban",
+    "province": "KwaZulu-Natal",
+    "website": "https://www.dut.ac.za",
+    "courses": ["Engineering", "IT", "Health Sciences", "Accounting", "Design", "Management"],
+    "image": "",
+    "description": "A leading university of technology offering career-focused qualifications with strong industry links.",
+    "rating": 4.2
+  },
+  {
+    "id": "i8",
+    "name": "Ekurhuleni East TVET College",
+    "type": "TVET",
+    "location": "Springs",
+    "province": "Gauteng",
+    "website": "https://www.eec.edu.za",
+    "courses": ["Electrical Engineering", "Mechanical Engineering", "Business Management", "IT", "Hospitality"],
+    "image": "",
+    "description": "A public TVET college offering NCV and Report 191 programmes with practical skills training.",
+    "rating": 3.8
+  },
+  {
+    "id": "i10",
+    "name": "False Bay TVET College",
+    "type": "TVET",
+    "location": "Cape Town",
+    "province": "Western Cape",
+    "website": "https://www.falsebaycollege.co.za",
+    "courses": ["Engineering", "Business", "IT", "Hospitality", "Art & Design"],
+    "image": "",
+    "description": "A leading Western Cape TVET college with modern facilities and strong industry partnerships.",
+    "rating": 4.0
+  },
+  {
+    "id": "i11",
+    "name": "Rosebank College",
+    "type": "Private College",
+    "location": "Johannesburg",
+    "province": "Gauteng",
+    "website": "https://www.rosebankcollege.co.za",
+    "courses": ["Business Management", "IT", "Commerce", "Public Relations", "Human Resources"],
+    "image": "",
+    "description": "A well-established private college offering accredited diplomas and degrees in business and IT.",
+    "rating": 3.9
+  },
+  {
+    "id": "i12",
+    "name": "Boston City Campus",
+    "type": "Private College",
+    "location": "Multiple Locations",
+    "province": "Gauteng",
+    "website": "https://www.boston.co.za",
+    "courses": ["Business", "IT", "Law", "Education", "Health", "Design"],
+    "image": "",
+    "description": "One of SA's largest private education providers with campuses nationwide and flexible study options.",
+    "rating": 3.8
+  }
+]

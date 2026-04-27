@@ -1,0 +1,139 @@
+{
+  "dataSources": [
+    {
+      "id": "nsfas",
+      "name": "NSFAS",
+      "url": "https://www.nsfas.org.za",
+      "layer": "opportunity",
+      "priority": "highest",
+      "dataPoints": ["application dates", "eligibility", "required documents", "official contacts"],
+      "strategy": "Foundation trust source; use official contact channels for verification checks."
+    },
+    {
+      "id": "sayouth",
+      "name": "SA Youth",
+      "url": "https://sayouth.mobi",
+      "layer": "opportunity",
+      "priority": "high",
+      "dataPoints": ["job titles", "requirements", "locations", "closing dates"],
+      "strategy": "High-priority jobs and learnership feed with accessibility focus."
+    },
+    {
+      "id": "nefcorp",
+      "name": "NEFCORP",
+      "url": "https://www.nefcorp.co.za",
+      "layer": "alternative-funding",
+      "priority": "high",
+      "dataPoints": ["funding products", "eligibility", "application steps", "contact channels"],
+      "strategy": "Alternative funding and entrepreneurship source; verify product pages before publishing."
+    },
+    {
+      "id": "dbe-papers",
+      "name": "DBE Past Papers",
+      "url": "https://wcedeportal.co.za",
+      "layer": "resources",
+      "priority": "high",
+      "dataPoints": ["subject", "year", "paper type", "memo link"],
+      "strategy": "Official source for exam resources; prefer direct PDF links."
+    },
+    {
+      "id": "siyavula",
+      "name": "Siyavula",
+      "url": "https://www.siyavula.com",
+      "layer": "resources",
+      "priority": "high",
+      "dataPoints": ["open textbooks", "grade", "subject", "language"],
+      "strategy": "CAPS-aligned textbooks for reliable study support."
+    },
+    {
+      "id": "siu",
+      "name": "SIU Reports",
+      "url": "https://www.siu.org.za",
+      "layer": "trust-safety",
+      "priority": "high",
+      "dataPoints": ["fraud entities", "fraud patterns", "notices"],
+      "strategy": "Use as scam shield blacklist for fraud prevention."
+    },
+    {
+      "id": "sadag",
+      "name": "SADAG Helplines",
+      "url": "https://www.sadag.org",
+      "layer": "wellbeing",
+      "priority": "high",
+      "dataPoints": ["helpline numbers", "hours", "service categories"],
+      "strategy": "Expose discreet support entry points in user flow."
+    }
+  ],
+  "googleQueries": [
+    {
+      "id": "opportunity-pdf-grade12",
+      "category": "opportunity",
+      "title": "Grade 12 bursary PDFs",
+      "query": "site:*.za (bursary OR scholarship OR funding) \"Grade 12\" filetype:pdf",
+      "purpose": "Find downloadable bursary notices that mention Grade 12 learners."
+    },
+    {
+      "id": "opportunity-learnerships",
+      "category": "opportunity",
+      "title": "Learnership opportunities",
+      "query": "site:*.za (learnership OR internship OR apprenticeship) filetype:pdf",
+      "purpose": "Surface learnership and internship postings from South African domains."
+    },
+    {
+      "id": "resources-past-papers",
+      "category": "resources",
+      "title": "Past papers and memos",
+      "query": "site:*.za (\"past paper\" OR memo OR exam) filetype:pdf",
+      "purpose": "Discover exam resources for learners and tutors."
+    },
+    {
+      "id": "resources-study-guides",
+      "category": "resources",
+      "title": "Study guides",
+      "query": "site:*.za (\"study guide\" OR textbook OR worksheet) filetype:pdf",
+      "purpose": "Locate printable study support material."
+    },
+    {
+      "id": "academic-open-access",
+      "category": "academic",
+      "title": "Open access research",
+      "query": "site:*.ac.za OR site:*.edu.za (repository OR dissertation OR thesis) filetype:pdf",
+      "purpose": "Surface academic repositories and open research outputs."
+    },
+    {
+      "id": "academic-open-textbook",
+      "category": "academic",
+      "title": "Open textbooks",
+      "query": "site:*.za (\"open textbook\" OR OER OR \"free textbook\") filetype:pdf",
+      "purpose": "Find educational open textbook and OER resources."
+    },
+    {
+      "id": "tvet-ncv-papers",
+      "category": "tvet",
+      "title": "TVET NCV papers",
+      "query": "site:*.za (NCV OR NATED OR TVET) (paper OR memo) filetype:pdf",
+      "purpose": "Find TVET-specific exam papers and memos."
+    },
+    {
+      "id": "trust-safety-fraud",
+      "category": "trust-safety",
+      "title": "Fraud and scam alerts",
+      "query": "site:*.za (scam OR fraud OR warning OR alert) bursary",
+      "purpose": "Identify community warnings and official fraud notices."
+    },
+    {
+      "id": "alternative-funding-nef",
+      "category": "alternative-funding",
+      "title": "NEF funding opportunities",
+      "query": "site:nefcorp.co.za (funding OR grant OR entrepreneurship OR youth)",
+      "purpose": "Find NEFCORP youth funding and entrepreneurship products."
+    },
+    {
+      "id": "alternative-funding-seda",
+      "category": "alternative-funding",
+      "title": "SEDA programmes",
+      "query": "site:seda.org.za (youth OR funding OR programme OR business)",
+      "purpose": "Identify small-business support and youth enterprise programmes."
+    }
+  ]
+}

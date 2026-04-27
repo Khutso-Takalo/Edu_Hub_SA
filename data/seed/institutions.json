@@ -1,0 +1,38 @@
+[
+	{
+		"id": "i1",
+		"name": "University of the Witwatersrand",
+		"type": "University",
+		"location": "Johannesburg",
+		"province": "Gauteng",
+		"website": "https://www.wits.ac.za",
+		"courses": ["Engineering", "Medicine", "Law", "Commerce", "Science", "Humanities"],
+		"image": "",
+		"description": "One of Africa's leading research universities, known for excellence in engineering, medicine, and sciences.",
+		"rating": 4.7
+	},
+	{
+		"id": "i2",
+		"name": "University of Cape Town",
+		"type": "University",
+		"location": "Cape Town",
+		"province": "Western Cape",
+		"website": "https://www.uct.ac.za",
+		"courses": ["Medicine", "Engineering", "Commerce", "Law", "Humanities", "Science"],
+		"image": "",
+		"description": "Africa's oldest university and consistently ranked as the top university on the continent.",
+		"rating": 4.8
+	},
+	{
+		"id": "i3",
+		"name": "University of Pretoria",
+		"type": "University",
+		"location": "Pretoria",
+		"province": "Gauteng",
+		"website": "https://www.up.ac.za",
+		"courses": ["Engineering", "Veterinary Science", "Agriculture", "Education", "Law", "IT"],
+		"image": "",
+		"description": "A leading research-intensive university offering a wide range of undergraduate and postgraduate programmes.",
+		"rating": 4.6
+	}
+]

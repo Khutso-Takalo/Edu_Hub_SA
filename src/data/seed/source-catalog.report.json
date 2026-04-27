@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-04-16T12:59:12.464Z",
+  "registryPath": "src/data/sourceRegistry.json",
+  "sourceCount": 7,
+  "matchedCount": 4,
+  "fallbackCount": 1,
+  "unreachableCount": 2,
+  "outputPath": "src/data/seed/source-catalog.json",
+  "sources": [
+    {
+      "sourceId": "nsfas",
+      "status": "unreachable",
+      "matchedLinks": 0,
+      "keywordsUsed": 10
+    },
+    {
+      "sourceId": "sayouth",
+      "status": "fallback",
+      "matchedLinks": 0,
+      "keywordsUsed": 11
+    },
+    {
+      "sourceId": "nefcorp",
+      "status": "matched",
+      "matchedLinks": 4,
+      "keywordsUsed": 11
+    },
+    {
+      "sourceId": "dbe-papers",
+      "status": "matched",
+      "matchedLinks": 4,
+      "keywordsUsed": 12
+    },
+    {
+      "sourceId": "siyavula",
+      "status": "matched",
+      "matchedLinks": 4,
+      "keywordsUsed": 9
+    },
+    {
+      "sourceId": "siu",
+      "status": "unreachable",
+      "matchedLinks": 0,
+      "keywordsUsed": 10
+    },
+    {
+      "sourceId": "sadag",
+      "status": "matched",
+      "matchedLinks": 4,
+      "keywordsUsed": 10
+    }
+  ]
+}

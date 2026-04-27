@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scraped-nsfas-fallback",
+    "name": "NSFAS Funding Listing",
+    "provider": "NSFAS",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-06-29",
+    "amount": "See source",
+    "link": "https://www.nsfas.org.za",
+    "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-04-15T21:26:09.958Z",
+    "freshnessScore": 55
+  },
+  {
+    "id": "scraped-sasol-7daa2989be",
+    "name": "Sasol: Graduates",
+    "provider": "Sasol",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-06-29",
+    "amount": "See source",
+    "link": "https://www.sasol.com/index.php/careers/graduates",
+    "description": "Auto-discovered from https://www.sasol.com",
+    "minAPS": 0,
+    "verificationSource": "scraped",
+    "lastVerified": "2026-04-15T21:26:09.958Z",
+    "freshnessScore": 92
+  },
+  {
+    "id": "scraped-eskom-fallback",
+    "name": "Eskom Funding Listing",
+    "provider": "Eskom",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-06-29",
+    "amount": "See source",
+    "link": "https://www.eskom.co.za",
+    "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-04-15T21:26:09.958Z",
+    "freshnessScore": 55
+  },
+  {
+    "id": "scraped-oldmutual-fallback",
+    "name": "Old Mutual Funding Listing",
+    "provider": "Old Mutual",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-06-29",
+    "amount": "See source",
+    "link": "https://www.oldmutual.com",
+    "description": "Scrape fallback generated due to access failure: TypeError: fetch failed",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-04-15T21:26:09.958Z",
+    "freshnessScore": 20
+  }
+]

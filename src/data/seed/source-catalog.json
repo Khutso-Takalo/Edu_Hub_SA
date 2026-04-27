@@ -1,0 +1,234 @@
+[
+  {
+    "sourceId": "nsfas",
+    "sourceName": "NSFAS",
+    "sourceUrl": "https://www.nsfas.org.za",
+    "layer": "opportunity",
+    "priority": "highest",
+    "status": "unreachable",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "bursary",
+      "funding",
+      "application",
+      "student",
+      "study",
+      "application dates",
+      "eligibility",
+      "required documents",
+      "official contacts",
+      "nsfas"
+    ],
+    "note": "Source could not be fetched: TypeError: fetch failed"
+  },
+  {
+    "sourceId": "sayouth",
+    "sourceName": "SA Youth",
+    "sourceUrl": "https://sayouth.mobi",
+    "layer": "opportunity",
+    "priority": "high",
+    "status": "fallback",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "job",
+      "learnership",
+      "internship",
+      "apprenticeship",
+      "opportunity",
+      "job titles",
+      "requirements",
+      "locations",
+      "closing dates",
+      "sa",
+      "youth"
+    ],
+    "note": "Source page was reachable, but no matching links were detected."
+  },
+  {
+    "sourceId": "nefcorp",
+    "sourceName": "NEFCORP",
+    "sourceUrl": "https://www.nefcorp.co.za",
+    "layer": "alternative-funding",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [
+      {
+        "url": "https://www.nefcorp.co.za/covid-19-business-funding/",
+        "text": "COVID-19 Business Funding"
+      },
+      {
+        "url": "https://www.nefcorp.co.za/products-services/",
+        "text": "Funding Solutions"
+      },
+      {
+        "url": "https://www.nefcorp.co.za/products-services/funding-criteria/",
+        "text": "Funding Criteria"
+      },
+      {
+        "url": "https://www.nefcorp.co.za/wp-content/uploads/2018/07/Funding-Application-Forms.pdf",
+        "text": "Application Form"
+      }
+    ],
+    "keywordsUsed": [
+      "funding",
+      "entrepreneurship",
+      "grant",
+      "youth",
+      "business",
+      "loan",
+      "funding products",
+      "eligibility",
+      "application steps",
+      "contact channels",
+      "nefcorp"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "dbe-papers",
+    "sourceName": "DBE Past Papers",
+    "sourceUrl": "https://wcedeportal.co.za",
+    "layer": "resources",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [
+      {
+        "url": "https://wcedeportal.co.za/past-papers",
+        "text": "NSC Past Papers & Memos"
+      },
+      {
+        "url": "https://wcedeportal.co.za/fet-exemplar-papers",
+        "text": "FET Exemplars"
+      },
+      {
+        "url": "https://wcedeportal.co.za/fet-common-papers",
+        "text": "FET Common Papers"
+      },
+      {
+        "url": "https://wcedeportal.co.za/eresource/257176",
+        "text": "DBE White Paper on eEducation DRAFT"
+      }
+    ],
+    "keywordsUsed": [
+      "paper",
+      "memo",
+      "exam",
+      "past paper",
+      "pdf",
+      "subject",
+      "year",
+      "paper type",
+      "memo link",
+      "dbe",
+      "past",
+      "papers"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "siyavula",
+    "sourceName": "Siyavula",
+    "sourceUrl": "https://www.siyavula.com",
+    "layer": "resources",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [
+      {
+        "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
+        "text": "Yes, I reside in South Africa"
+      },
+      {
+        "url": "https://www.siyavula.com/select-region",
+        "text": "Change country/curriculum"
+      },
+      {
+        "url": "https://www.siyavula.com/products/learners",
+        "text": "Find out more"
+      },
+      {
+        "url": "https://www.siyavula.com/sign-up",
+        "text": "Always FREE! Sign up as a learner"
+      }
+    ],
+    "keywordsUsed": [
+      "textbook",
+      "worksheet",
+      "lesson",
+      "grade",
+      "caps",
+      "open textbooks",
+      "subject",
+      "language",
+      "siyavula"
+    ],
+    "note": "Matched 4 link(s)."
+  },
+  {
+    "sourceId": "siu",
+    "sourceName": "SIU Reports",
+    "sourceUrl": "https://www.siu.org.za",
+    "layer": "trust-safety",
+    "priority": "high",
+    "status": "unreachable",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [],
+    "keywordsUsed": [
+      "fraud",
+      "scam",
+      "warning",
+      "report",
+      "corruption",
+      "fraud entities",
+      "fraud patterns",
+      "notices",
+      "siu",
+      "reports"
+    ],
+    "note": "Source could not be fetched: TypeError: fetch failed"
+  },
+  {
+    "sourceId": "sadag",
+    "sourceName": "SADAG Helplines",
+    "sourceUrl": "https://www.sadag.org",
+    "layer": "wellbeing",
+    "priority": "high",
+    "status": "matched",
+    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "matchedLinks": [
+      {
+        "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",
+        "text": "Rewards Program"
+      },
+      {
+        "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=1833&amp;Itemid=159",
+        "text": "Panic Treatment &amp; Referral Guide"
+      },
+      {
+        "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=1834&amp;Itemid=164",
+        "text": "Social Phobia Treatment &amp; Referral Guide"
+      },
+      {
+        "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=1831&amp;Itemid=169",
+        "text": "OCD Treatment &amp; Referral Guide"
+      }
+    ],
+    "keywordsUsed": [
+      "helpline",
+      "counselling",
+      "support",
+      "crisis",
+      "service",
+      "helpline numbers",
+      "hours",
+      "service categories",
+      "sadag",
+      "helplines"
+    ],
+    "note": "Matched 4 link(s)."
+  }
+]

@@ -1,0 +1,42 @@
+name: Scrape Bursaries
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run source catalog scrape
+        run: npm run scrape:sources
+
+      - name: Run bursary scraper merge
+        run: npm run scrape:bursaries:merge
+
+      - name: Run data QA checks
+        run: npm run data:check-links -- --quarantine-failure-streak 2 --retry-attempts 1 && npm run data:reconcile
+
+      - name: Enforce data quality gate
+        run: npm run data:qa:gate -- --warn-broken-rate 0.5 --max-broken-rate 0.6 --warn-fallback-rate 0.6 --max-fallback-rate 0.7 --min-output-count 5
+
+      - name: Commit updated seed data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add src/data/seed/*.json data/seed/*.json
+          git commit -m "chore: update scraped bursary data and QA reports [skip ci]" || echo "No changes"
+          git push
