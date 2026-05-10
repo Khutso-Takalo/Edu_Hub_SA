@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T21:26:09.958Z",
-  "sourceCount": 4,
-  "outputCount": 4,
+  "generatedAt": "2026-05-10T01:29:28.217Z",
+  "sourceCount": 5,
+  "outputCount": 8,
   "fallbackCount": 3,
   "mergeIntoSeed": true,
   "seedPath": "src/data/seed/bursaries.json",
@@ -26,6 +26,11 @@
       "source": "https://www.oldmutual.com",
       "generatedRows": 1,
       "fallbackRows": 1
+    },
+    {
+      "source": "https://www.nefcorp.co.za",
+      "generatedRows": 4,
+      "fallbackRows": 0
     }
   ]
 }

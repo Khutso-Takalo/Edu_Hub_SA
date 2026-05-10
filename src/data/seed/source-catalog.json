@@ -6,7 +6,7 @@
     "layer": "opportunity",
     "priority": "highest",
     "status": "unreachable",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "bursary",
@@ -29,7 +29,7 @@
     "layer": "opportunity",
     "priority": "high",
     "status": "fallback",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "job",
@@ -53,7 +53,7 @@
     "layer": "alternative-funding",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [
       {
         "url": "https://www.nefcorp.co.za/covid-19-business-funding/",
@@ -93,26 +93,9 @@
     "sourceUrl": "https://wcedeportal.co.za",
     "layer": "resources",
     "priority": "high",
-    "status": "matched",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
-    "matchedLinks": [
-      {
-        "url": "https://wcedeportal.co.za/past-papers",
-        "text": "NSC Past Papers & Memos"
-      },
-      {
-        "url": "https://wcedeportal.co.za/fet-exemplar-papers",
-        "text": "FET Exemplars"
-      },
-      {
-        "url": "https://wcedeportal.co.za/fet-common-papers",
-        "text": "FET Common Papers"
-      },
-      {
-        "url": "https://wcedeportal.co.za/eresource/257176",
-        "text": "DBE White Paper on eEducation DRAFT"
-      }
-    ],
+    "status": "unreachable",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "matchedLinks": [],
     "keywordsUsed": [
       "paper",
       "memo",
@@ -127,7 +110,7 @@
       "past",
       "papers"
     ],
-    "note": "Matched 4 link(s)."
+    "note": "Source could not be fetched: Error: HTTP 403"
   },
   {
     "sourceId": "siyavula",
@@ -136,7 +119,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [
       {
         "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
@@ -175,7 +158,7 @@
     "layer": "trust-safety",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "fraud",
@@ -198,7 +181,7 @@
     "layer": "wellbeing",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-04-16T12:59:12.464Z",
+    "checkedAt": "2026-05-10T01:29:19.241Z",
     "matchedLinks": [
       {
         "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",
