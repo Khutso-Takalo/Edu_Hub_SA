@@ -14,7 +14,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:43.983Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:37.379Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b2",
@@ -28,10 +30,12 @@
     "description": "Government-funded financial aid covering tuition, accommodation, transport, books and personal allowance for qualifying students.",
     "minAPS": 0,
     "isGolden": true,
-    "freshnessScore": 100,
-    "verificationStatus": "verified",
-    "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:44.384Z"
+    "freshnessScore": 65,
+    "verificationStatus": "unverified",
+    "linkHealthStatus": "broken",
+    "lastLinkCheckAt": "2026-05-10T01:29:39.291Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b3",
@@ -48,7 +52,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:46.130Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:40.859Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b4",
@@ -64,7 +70,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:47.959Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:43.964Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b5",
@@ -81,7 +89,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:51.044Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:46.817Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b6",
@@ -97,7 +107,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:52.566Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:49.745Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b7",
@@ -111,10 +123,12 @@
     "description": "Covers tuition and books for students pursuing degrees in Accounting, Finance, Economics, IT, and Data Science.",
     "minAPS": 30,
     "isGolden": true,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:55:52.976Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:52.242Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b8",
@@ -127,10 +141,12 @@
     "link": "https://www.angloamerican.com/careers/students-and-graduates",
     "description": "Mining, Metallurgical, Mechanical, Electrical, and Chemical Engineering bursaries with vacation work opportunities.",
     "minAPS": 32,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:55:53.898Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:53.498Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b9",
@@ -147,7 +163,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:55:54.315Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:54.601Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b10",
@@ -160,10 +178,12 @@
     "link": "https://www.oldmutual.com/careers",
     "description": "Bursary for Actuarial Science, Finance, Accounting, IT, and Mathematics students at South African universities.",
     "minAPS": 30,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:55:55.258Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:55.578Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b11",
@@ -176,10 +196,12 @@
     "link": "https://www.transnet.net/Career/Pages/Bursaries.aspx",
     "description": "Engineering and logistics bursaries including Civil, Mechanical, Electrical, and Industrial Engineering.",
     "minAPS": 28,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:55:55.536Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:56.756Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b12",
@@ -192,10 +214,12 @@
     "link": "https://www.shopriteholdings.co.za/careers",
     "description": "Supports students in Retail Management, Supply Chain, IT, Finance, and Food Technology programmes.",
     "minAPS": 24,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:55:55.809Z"
+    "lastLinkCheckAt": "2026-05-10T01:29:57.160Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b13",
@@ -208,10 +232,12 @@
     "link": "https://www.dalrrd.gov.za",
     "description": "Bursary for Agricultural Sciences, Veterinary Science, Food Science, and Environmental Management studies.",
     "minAPS": 26,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:56:06.029Z"
+    "lastLinkCheckAt": "2026-05-10T01:30:10.863Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b14",
@@ -224,10 +250,12 @@
     "link": "https://www.vodacom.com/about-us/careers.php",
     "description": "Technology-focused bursary for Computer Science, Data Science, Cybersecurity, and Telecommunications Engineering.",
     "minAPS": 30,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:56:06.597Z"
+    "lastLinkCheckAt": "2026-05-10T01:30:13.622Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b15",
@@ -241,10 +269,12 @@
     "description": "Supports students in Accounting, Finance, Economics, IT, Data Analytics, and Actuarial Science.",
     "minAPS": 30,
     "isGolden": true,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:56:11.103Z"
+    "lastLinkCheckAt": "2026-05-10T01:30:15.602Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
   },
   {
     "id": "b16",
@@ -260,7 +290,9 @@
     "freshnessScore": 100,
     "verificationStatus": "verified",
     "linkHealthStatus": "healthy",
-    "lastLinkCheckAt": "2026-04-16T01:56:11.773Z"
+    "lastLinkCheckAt": "2026-05-10T01:30:16.342Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b17",
@@ -273,10 +305,12 @@
     "link": "https://www.dhet.gov.za",
     "description": "Government funding for TVET college students covering tuition, accommodation, transport, and learning materials.",
     "minAPS": 0,
-    "freshnessScore": 65,
+    "freshnessScore": 67,
     "verificationStatus": "unverified",
-    "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:56:22.059Z"
+    "linkHealthStatus": "healthy",
+    "lastLinkCheckAt": "2026-05-10T01:30:18.500Z",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false
   },
   {
     "id": "b18",
@@ -290,9 +324,131 @@
     "description": "Supports students in Software Development, Data Engineering, Information Systems, and Applied Mathematics.",
     "minAPS": 28,
     "isGolden": true,
-    "freshnessScore": 65,
+    "freshnessScore": 30,
     "verificationStatus": "unverified",
     "linkHealthStatus": "broken",
-    "lastLinkCheckAt": "2026-04-16T01:56:22.268Z"
+    "lastLinkCheckAt": "2026-05-10T01:30:19.106Z",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false
+  },
+  {
+    "id": "scraped-nsfas-fallback",
+    "name": "NSFAS Funding Listing",
+    "provider": "NSFAS",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.nsfas.org.za",
+    "description": "Scrape fallback generated due to access failure: TypeError: fetch failed",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 0,
+    "verificationStatus": "unverified",
+    "linkHealthStatus": "broken",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:20.493Z"
+  },
+  {
+    "id": "scraped-sasol-ff27906215",
+    "name": "Sasol: Graduates",
+    "provider": "Sasol",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.sasol.com/careers/graduates",
+    "description": "Auto-discovered from https://www.sasol.com",
+    "minAPS": 0,
+    "verificationSource": "scraped",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 94,
+    "verificationStatus": "verified",
+    "linkHealthStatus": "healthy",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:21.707Z"
+  },
+  {
+    "id": "scraped-eskom-fallback",
+    "name": "Eskom Funding Listing",
+    "provider": "Eskom",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.eskom.co.za",
+    "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 57,
+    "verificationStatus": "verified",
+    "linkHealthStatus": "healthy",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:23.711Z"
+  },
+  {
+    "id": "scraped-oldmutual-fallback",
+    "name": "Old Mutual Funding Listing",
+    "provider": "Old Mutual",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.oldmutual.com",
+    "description": "Scrape fallback generated due to access failure: TypeError: fetch failed",
+    "minAPS": 0,
+    "verificationSource": "community",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 0,
+    "verificationStatus": "unverified",
+    "linkHealthStatus": "broken",
+    "consecutiveBrokenChecks": 1,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:23.825Z"
+  },
+  {
+    "id": "scraped-nefcorp-https-www-nefcorp-co-za-products-ser",
+    "name": "NEFCORP: Non-financial business support",
+    "provider": "NEFCORP",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.nefcorp.co.za/products-services/non-financial-business-support/",
+    "description": "Auto-discovered from https://www.nefcorp.co.za",
+    "minAPS": 0,
+    "verificationSource": "scraped",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 94,
+    "verificationStatus": "verified",
+    "linkHealthStatus": "healthy",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:25.150Z"
+  },
+  {
+    "id": "scraped-nefcorp-https-www-nefcorp-co-za-covid-19-bus",
+    "name": "NEFCORP: COVID-19 Business Funding",
+    "provider": "NEFCORP",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-24",
+    "amount": "See source",
+    "link": "https://www.nefcorp.co.za/covid-19-business-funding/",
+    "description": "Auto-discovered from https://www.nefcorp.co.za",
+    "minAPS": 0,
+    "verificationSource": "scraped",
+    "lastVerified": "2026-05-10T01:29:28.217Z",
+    "freshnessScore": 94,
+    "verificationStatus": "verified",
+    "linkHealthStatus": "healthy",
+    "consecutiveBrokenChecks": 0,
+    "needsReview": false,
+    "lastLinkCheckAt": "2026-05-10T01:30:26.201Z"
   }
 ]

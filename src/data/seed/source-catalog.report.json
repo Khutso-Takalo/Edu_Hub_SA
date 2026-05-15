@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-16T12:59:12.464Z",
+  "generatedAt": "2026-05-10T01:29:19.241Z",
   "registryPath": "src/data/sourceRegistry.json",
   "sourceCount": 7,
-  "matchedCount": 4,
+  "matchedCount": 3,
   "fallbackCount": 1,
-  "unreachableCount": 2,
+  "unreachableCount": 3,
   "outputPath": "src/data/seed/source-catalog.json",
   "sources": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "sourceId": "dbe-papers",
-      "status": "matched",
-      "matchedLinks": 4,
+      "status": "unreachable",
+      "matchedLinks": 0,
       "keywordsUsed": 12
     },
     {
