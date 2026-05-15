@@ -1,0 +1,44 @@
+name: EduHub SA Daily Pipeline
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs at 02:00 SAST (Midnight UTC)
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Install Playwright
+        run: npx playwright install --with-deps chromium
+
+      - name: Execute Scraping Pipeline
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          npm run scrape:bursaries
+          npm run seed:merge
+          npm run scrape:qa
+
+      - name: Commit Health Artifacts
+        run: |
+          git config --global user.name "eduhub-bot"
+          git config --global user.email "bot@eduhubsa.co.za"
+          git add src/data/health/ || true
+          git commit -m "data: update health reports [skip ci]" || echo "No changes"
+          git push || echo "Push failed or no permission"
