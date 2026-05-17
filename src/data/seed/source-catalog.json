@@ -6,7 +6,7 @@
     "layer": "opportunity",
     "priority": "highest",
     "status": "unreachable",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "bursary",
@@ -29,7 +29,7 @@
     "layer": "opportunity",
     "priority": "high",
     "status": "fallback",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "job",
@@ -53,7 +53,7 @@
     "layer": "alternative-funding",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [
       {
         "url": "https://www.nefcorp.co.za/covid-19-business-funding/",
@@ -94,7 +94,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "paper",
@@ -119,7 +119,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [
       {
         "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
@@ -158,7 +158,7 @@
     "layer": "trust-safety",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "fraud",
@@ -181,7 +181,7 @@
     "layer": "wellbeing",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-10T01:29:19.241Z",
+    "checkedAt": "2026-05-17T01:46:10.771Z",
     "matchedLinks": [
       {
         "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",

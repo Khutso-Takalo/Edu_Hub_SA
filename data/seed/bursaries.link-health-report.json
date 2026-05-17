@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-10T01:30:26.201Z",
+  "generatedAt": "2026-05-17T01:47:12.210Z",
   "totalChecked": 24,
   "healthy": 12,
   "broken": 12,
-  "quarantined": 0,
+  "quarantined": 12,
   "recoveredOnRetry": 0,
   "quarantineFreshnessThreshold": 65,
   "quarantineFailureStreak": 2,
@@ -34,11 +34,11 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 100,
-      "freshnessAfter": 65
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 65,
+      "freshnessAfter": 30
     },
     {
       "id": "b3",
@@ -109,11 +109,11 @@
       "reason": "http-404",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b8",
@@ -124,11 +124,11 @@
       "reason": "http-404",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b9",
@@ -154,11 +154,11 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b11",
@@ -169,11 +169,11 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b12",
@@ -184,11 +184,11 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b13",
@@ -199,11 +199,11 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b14",
@@ -214,11 +214,11 @@
       "reason": "http-404",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b15",
@@ -229,11 +229,11 @@
       "reason": "http-404",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b16",
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 65,
-      "freshnessAfter": 67
+      "freshnessBefore": 67,
+      "freshnessAfter": 69
     },
     {
       "id": "b18",
@@ -274,11 +274,11 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "scraped-nsfas-fallback",
@@ -289,9 +289,9 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -334,9 +334,9 @@
       "reason": "TypeError",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
