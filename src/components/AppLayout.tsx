@@ -7,7 +7,6 @@ import AuthModal from '@/components/eduhub/AuthModal';
 import Footer from '@/components/eduhub/Footer';
 import PwaStatusBanner from '@/components/eduhub/PwaStatusBanner';
 import { toast } from '@/components/ui/use-toast';
-import { FeedbackWidget } from '@/components/FeedbackWidget';
 import { ProfileSetupModal } from '@/components/onboarding/ProfileSetupModal';
 
 const HeroSection = lazy(() => import('@/components/eduhub/HeroSection'));
@@ -338,7 +337,8 @@ const AppLayout: React.FC = () => {
           <HeroSection
             onNavigate={handleNavigate}
             onSearch={handleSearch}
-            isLoggedIn={false}
+              onAuthClick={handleAuthClick}
+              isLoggedIn={false}
             searchHistory={searchHistory}
           />
         );
@@ -357,7 +357,8 @@ const AppLayout: React.FC = () => {
           <HeroSection
             onNavigate={handleNavigate}
             onSearch={handleSearch}
-            isLoggedIn={false}
+              onAuthClick={handleAuthClick}
+              isLoggedIn={false}
             searchHistory={searchHistory}
           />
         );
@@ -387,6 +388,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={!!user}
               searchHistory={searchHistory}
             />
@@ -441,6 +443,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={false}
               searchHistory={searchHistory}
             />
@@ -448,6 +451,7 @@ const AppLayout: React.FC = () => {
         }
         return (
           <ApplicationTracker
+            userId={user?.id}
             applications={applications}
             onUpdateApplicationStatus={updateStatus}
             onToggleChecklistItem={toggleChecklistItem}
@@ -481,6 +485,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={false}
               searchHistory={searchHistory}
             />
@@ -502,6 +507,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={false}
               searchHistory={searchHistory}
             />
@@ -525,6 +531,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={false}
               searchHistory={searchHistory}
             />
@@ -543,6 +550,7 @@ const AppLayout: React.FC = () => {
             <HeroSection
               onNavigate={handleNavigate}
               onSearch={handleSearch}
+              onAuthClick={handleAuthClick}
               isLoggedIn={false}
               searchHistory={searchHistory}
             />
@@ -575,7 +583,8 @@ const AppLayout: React.FC = () => {
           <HeroSection
             onNavigate={handleNavigate}
             onSearch={handleSearch}
-            isLoggedIn={!!user}
+              onAuthClick={handleAuthClick}
+              isLoggedIn={!!user}
             searchHistory={searchHistory}
           />
         );
@@ -641,7 +650,6 @@ const AppLayout: React.FC = () => {
       <div className="fixed bottom-4 right-4 z-50 flex flex-col gap-3 items-end sm:bottom-6 sm:right-8 pointer-events-none">
         <div className="pointer-events-auto flex flex-col gap-3 items-end">
           <CareerAdvisorChat profile={profile} isLoggedIn={!!user} />
-          <FeedbackWidget userId={user?.id} />
         </div>
       </div>
     </div>
@@ -649,3 +657,9 @@ const AppLayout: React.FC = () => {
 };
 
 export default AppLayout;
+
+
+
+
+
+
