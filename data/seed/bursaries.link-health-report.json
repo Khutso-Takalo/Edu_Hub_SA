@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-17T01:47:12.210Z",
-  "totalChecked": 24,
-  "healthy": 12,
+  "generatedAt": "2026-05-17T13:27:59.845Z",
+  "totalChecked": 25,
+  "healthy": 13,
   "broken": 12,
   "quarantined": 12,
   "recoveredOnRetry": 0,
@@ -35,10 +35,10 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b3",
@@ -110,9 +110,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -125,9 +125,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -155,9 +155,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -170,9 +170,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -185,9 +185,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -200,9 +200,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -215,9 +215,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -230,9 +230,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 67,
-      "freshnessAfter": 69
+      "freshnessBefore": 69,
+      "freshnessAfter": 71
     },
     {
       "id": "b18",
@@ -275,9 +275,9 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 30,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
@@ -290,14 +290,14 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
     {
       "id": "scraped-sasol-ff27906215",
-      "name": "Sasol: Graduates",
+      "name": "Sasol: Learn More",
       "link": "https://www.sasol.com/careers/graduates",
       "ok": true,
       "status": 200,
@@ -335,8 +335,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -359,6 +359,21 @@
       "id": "scraped-nefcorp-https-www-nefcorp-co-za-covid-19-bus",
       "name": "NEFCORP: COVID-19 Business Funding",
       "link": "https://www.nefcorp.co.za/covid-19-business-funding/",
+      "ok": true,
+      "status": 200,
+      "reason": "ok",
+      "attempts": 1,
+      "recoveredOnRetry": false,
+      "quarantined": false,
+      "brokenChecksBefore": 0,
+      "brokenChecksAfter": 0,
+      "freshnessBefore": 92,
+      "freshnessAfter": 94
+    },
+    {
+      "id": "scraped-sasol-7daa2989be",
+      "name": "Sasol: Graduates",
+      "link": "https://www.sasol.com/index.php/careers/graduates",
       "ok": true,
       "status": 200,
       "reason": "ok",

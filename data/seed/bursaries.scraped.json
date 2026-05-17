@@ -11,12 +11,27 @@
     "description": "Scrape fallback generated due to access failure: TypeError: fetch failed",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 20
   },
   {
-    "id": "scraped-sasol-ff27906215",
+    "id": "scraped-sasol-7daa2989be",
     "name": "Sasol: Graduates",
+    "provider": "Sasol",
+    "field": "All Fields",
+    "eligibility": "Check official source for current eligibility criteria.",
+    "deadline": "2026-07-31",
+    "amount": "See source",
+    "link": "https://www.sasol.com/index.php/careers/graduates",
+    "description": "Auto-discovered from https://www.sasol.com",
+    "minAPS": 0,
+    "verificationSource": "scraped",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
+    "freshnessScore": 92
+  },
+  {
+    "id": "scraped-sasol-ff27906215",
+    "name": "Sasol: Learn More",
     "provider": "Sasol",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
@@ -26,7 +41,7 @@
     "description": "Auto-discovered from https://www.sasol.com",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 92
   },
   {
@@ -41,7 +56,7 @@
     "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 55
   },
   {
@@ -56,7 +71,7 @@
     "description": "Scrape fallback generated due to access failure: TypeError: fetch failed",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 20
   },
   {
@@ -71,7 +86,7 @@
     "description": "Auto-discovered from https://www.nefcorp.co.za",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 92
   },
   {
@@ -86,7 +101,7 @@
     "description": "Auto-discovered from https://www.nefcorp.co.za",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 92
   },
   {
@@ -101,7 +116,7 @@
     "description": "Auto-discovered from https://www.nefcorp.co.za",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 92
   },
   {
@@ -116,7 +131,7 @@
     "description": "Auto-discovered from https://www.nefcorp.co.za",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-05-17T01:46:19.158Z",
+    "lastVerified": "2026-05-17T13:27:09.758Z",
     "freshnessScore": 92
   }
 ]
