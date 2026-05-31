@@ -5,9 +5,14 @@
     "sourceUrl": "https://www.nsfas.org.za",
     "layer": "opportunity",
     "priority": "highest",
-    "status": "unreachable",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
-    "matchedLinks": [],
+    "status": "matched",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
+    "matchedLinks": [
+      {
+        "url": "http://meanstest.nsfas.org.za/nsfas/index.html",
+        "text": "link to example"
+      }
+    ],
     "keywordsUsed": [
       "bursary",
       "funding",
@@ -20,7 +25,7 @@
       "official contacts",
       "nsfas"
     ],
-    "note": "Source could not be fetched: TypeError: fetch failed"
+    "note": "Matched 1 link(s)."
   },
   {
     "sourceId": "sayouth",
@@ -29,7 +34,7 @@
     "layer": "opportunity",
     "priority": "high",
     "status": "fallback",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "job",
@@ -53,7 +58,7 @@
     "layer": "alternative-funding",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [
       {
         "url": "https://www.nefcorp.co.za/covid-19-business-funding/",
@@ -94,7 +99,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "paper",
@@ -119,7 +124,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [
       {
         "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
@@ -158,7 +163,7 @@
     "layer": "trust-safety",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "fraud",
@@ -181,7 +186,7 @@
     "layer": "wellbeing",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-05-17T13:26:59.050Z",
+    "checkedAt": "2026-05-31T01:59:57.724Z",
     "matchedLinks": [
       {
         "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",
