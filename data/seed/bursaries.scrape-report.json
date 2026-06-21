@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T02:08:24.713Z",
+  "generatedAt": "2026-06-21T02:11:15.386Z",
   "sourceCount": 5,
-  "outputCount": 8,
+  "outputCount": 9,
   "fallbackCount": 3,
   "mergeIntoSeed": true,
   "seedPath": "src/data/seed/bursaries.json",
@@ -14,7 +14,7 @@
     },
     {
       "source": "https://www.sasol.com",
-      "generatedRows": 1,
+      "generatedRows": 2,
       "fallbackRows": 0
     },
     {

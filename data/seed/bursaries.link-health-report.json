@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:09:25.484Z",
+  "generatedAt": "2026-06-21T02:12:19.344Z",
   "totalChecked": 25,
   "healthy": 15,
   "broken": 10,
@@ -37,8 +37,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 2,
-      "freshnessAfter": 4
+      "freshnessBefore": 4,
+      "freshnessAfter": 6
     },
     {
       "id": "b3",
@@ -110,8 +110,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -125,8 +125,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -155,8 +155,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -170,8 +170,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -185,8 +185,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -200,8 +200,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -215,8 +215,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -230,8 +230,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 73,
-      "freshnessAfter": 75
+      "freshnessBefore": 75,
+      "freshnessAfter": 77
     },
     {
       "id": "b18",
@@ -275,8 +275,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -297,7 +297,7 @@
     },
     {
       "id": "scraped-sasol-ff27906215",
-      "name": "Sasol: Graduates",
+      "name": "Sasol: Learn More",
       "link": "https://www.sasol.com/careers/graduates",
       "ok": true,
       "status": 200,
@@ -335,8 +335,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 4,
-      "brokenChecksAfter": 5,
+      "brokenChecksBefore": 5,
+      "brokenChecksAfter": 6,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -372,7 +372,7 @@
     },
     {
       "id": "scraped-sasol-7daa2989be",
-      "name": "Sasol: Learn More",
+      "name": "Sasol: Graduates",
       "link": "https://www.sasol.com/index.php/careers/graduates",
       "ok": true,
       "status": 200,
@@ -382,8 +382,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 94,
-      "freshnessAfter": 96
+      "freshnessBefore": 92,
+      "freshnessAfter": 94
     }
   ]
 }

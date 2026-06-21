@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:09:25.484Z",
+  "generatedAt": "2026-06-21T02:12:19.344Z",
   "totalBroken": 10,
   "priorityLimit": 15,
   "topBrokenLinks": [
@@ -11,11 +11,11 @@
       "link": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/about-us/careers.html",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 2,
@@ -25,11 +25,11 @@
       "link": "https://www.angloamerican.com/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 3,
@@ -39,11 +39,11 @@
       "link": "https://www.oldmutual.com/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 4,
@@ -53,11 +53,11 @@
       "link": "https://www.transnet.net/Career/Pages/Bursaries.aspx",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 5,
@@ -67,11 +67,11 @@
       "link": "https://www.shopriteholdings.co.za/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 6,
@@ -81,11 +81,11 @@
       "link": "https://www.dalrrd.gov.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 7,
@@ -95,11 +95,11 @@
       "link": "https://www.vodacom.com/about-us/careers.php",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 8,
@@ -109,11 +109,11 @@
       "link": "https://www.standardbank.com/sbg/standard-bank-group/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "link": "https://www.capitecbank.co.za/about-us/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
       "rank": 10,
@@ -137,11 +137,11 @@
       "link": "https://www.oldmutual.com",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     }
   ]
 }
