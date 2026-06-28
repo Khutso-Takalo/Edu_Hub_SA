@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T02:12:19.344Z",
+  "generatedAt": "2026-06-28T02:02:46.951Z",
   "totalChecked": 25,
-  "healthy": 15,
-  "broken": 10,
-  "quarantined": 10,
+  "healthy": 17,
+  "broken": 8,
+  "quarantined": 8,
   "recoveredOnRetry": 0,
   "quarantineFreshnessThreshold": 65,
   "quarantineFailureStreak": 2,
@@ -37,8 +37,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 4,
-      "freshnessAfter": 6
+      "freshnessBefore": 6,
+      "freshnessAfter": 8
     },
     {
       "id": "b3",
@@ -110,8 +110,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -125,8 +125,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -149,16 +149,16 @@
       "id": "b10",
       "name": "Old Mutual Bursary",
       "link": "https://www.oldmutual.com/careers",
-      "ok": false,
-      "status": 403,
-      "reason": "http-403",
-      "attempts": 2,
+      "ok": true,
+      "status": 200,
+      "reason": "ok",
+      "attempts": 1,
       "recoveredOnRetry": false,
-      "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "quarantined": false,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 0,
       "freshnessBefore": 0,
-      "freshnessAfter": 0
+      "freshnessAfter": 2
     },
     {
       "id": "b11",
@@ -170,8 +170,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -185,8 +185,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -200,8 +200,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -215,8 +215,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -230,8 +230,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 75,
-      "freshnessAfter": 77
+      "freshnessBefore": 77,
+      "freshnessAfter": 79
     },
     {
       "id": "b18",
@@ -275,8 +275,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 7,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -297,7 +297,7 @@
     },
     {
       "id": "scraped-sasol-ff27906215",
-      "name": "Sasol: Learn More",
+      "name": "Sasol: Graduates",
       "link": "https://www.sasol.com/careers/graduates",
       "ok": true,
       "status": 200,
@@ -329,16 +329,16 @@
       "id": "scraped-oldmutual-fallback",
       "name": "Old Mutual Funding Listing",
       "link": "https://www.oldmutual.com",
-      "ok": false,
-      "status": 403,
-      "reason": "http-403",
-      "attempts": 2,
+      "ok": true,
+      "status": 200,
+      "reason": "ok",
+      "attempts": 1,
       "recoveredOnRetry": false,
-      "quarantined": true,
-      "brokenChecksBefore": 5,
-      "brokenChecksAfter": 6,
-      "freshnessBefore": 20,
-      "freshnessAfter": 0
+      "quarantined": false,
+      "brokenChecksBefore": 6,
+      "brokenChecksAfter": 0,
+      "freshnessBefore": 55,
+      "freshnessAfter": 57
     },
     {
       "id": "scraped-nefcorp-https-www-nefcorp-co-za-products-ser",
@@ -382,8 +382,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 92,
-      "freshnessAfter": 94
+      "freshnessBefore": 94,
+      "freshnessAfter": 96
     }
   ]
 }

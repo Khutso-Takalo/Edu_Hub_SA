@@ -1,7 +1,36 @@
 {
-  "generatedAt": "2026-06-21T02:12:19.501Z",
+  "generatedAt": "2026-06-28T02:02:47.103Z",
   "totalRecords": 25,
-  "conflictCount": 0,
+  "conflictCount": 1,
   "apply": true,
-  "conflicts": []
+  "conflicts": [
+    {
+      "key": "sasol|sasol: graduates",
+      "ids": [
+        "scraped-sasol-ff27906215",
+        "scraped-sasol-7daa2989be"
+      ],
+      "sourceIds": [
+        "scraped"
+      ],
+      "conflictFields": [
+        "deadline",
+        "link"
+      ],
+      "sample": [
+        {
+          "id": "scraped-sasol-ff27906215",
+          "deadline": "2026-09-11",
+          "amount": "See source",
+          "link": "https://www.sasol.com/careers/graduates"
+        },
+        {
+          "id": "scraped-sasol-7daa2989be",
+          "deadline": "2026-09-04",
+          "amount": "See source",
+          "link": "https://www.sasol.com/index.php/careers/graduates"
+        }
+      ]
+    }
+  ]
 }
