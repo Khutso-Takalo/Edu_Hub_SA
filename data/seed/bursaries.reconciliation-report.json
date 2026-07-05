@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:02:47.103Z",
+  "generatedAt": "2026-07-05T01:31:57.426Z",
   "totalRecords": 25,
   "conflictCount": 1,
   "apply": true,
@@ -20,7 +20,7 @@
       "sample": [
         {
           "id": "scraped-sasol-ff27906215",
-          "deadline": "2026-09-11",
+          "deadline": "2026-09-18",
           "amount": "See source",
           "link": "https://www.sasol.com/careers/graduates"
         },
