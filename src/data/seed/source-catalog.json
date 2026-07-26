@@ -6,7 +6,7 @@
     "layer": "opportunity",
     "priority": "highest",
     "status": "matched",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [
       {
         "url": "http://meanstest.nsfas.org.za/nsfas/index.html",
@@ -34,7 +34,7 @@
     "layer": "opportunity",
     "priority": "high",
     "status": "fallback",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "job",
@@ -57,26 +57,9 @@
     "sourceUrl": "https://www.nefcorp.co.za",
     "layer": "alternative-funding",
     "priority": "high",
-    "status": "matched",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
-    "matchedLinks": [
-      {
-        "url": "https://www.nefcorp.co.za/covid-19-business-funding/",
-        "text": "COVID-19 Business Funding"
-      },
-      {
-        "url": "https://www.nefcorp.co.za/products-services/",
-        "text": "Funding Solutions"
-      },
-      {
-        "url": "https://www.nefcorp.co.za/products-services/funding-criteria/",
-        "text": "Funding Criteria"
-      },
-      {
-        "url": "https://www.nefcorp.co.za/wp-content/uploads/2018/07/Funding-Application-Forms.pdf",
-        "text": "Application Form"
-      }
-    ],
+    "status": "unreachable",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "matchedLinks": [],
     "keywordsUsed": [
       "funding",
       "entrepreneurship",
@@ -90,7 +73,7 @@
       "contact channels",
       "nefcorp"
     ],
-    "note": "Matched 4 link(s)."
+    "note": "Source could not be fetched: Error: HTTP 403"
   },
   {
     "sourceId": "dbe-papers",
@@ -99,7 +82,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "paper",
@@ -124,7 +107,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [
       {
         "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
@@ -163,7 +146,7 @@
     "layer": "trust-safety",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "fraud",
@@ -186,7 +169,7 @@
     "layer": "wellbeing",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-07-05T01:31:02.873Z",
+    "checkedAt": "2026-07-26T01:21:41.153Z",
     "matchedLinks": [
       {
         "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",

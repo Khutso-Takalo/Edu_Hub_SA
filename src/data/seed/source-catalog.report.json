@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-05T01:31:02.873Z",
+  "generatedAt": "2026-07-26T01:21:41.153Z",
   "registryPath": "src/data/sourceRegistry.json",
   "sourceCount": 7,
-  "matchedCount": 4,
+  "matchedCount": 3,
   "fallbackCount": 1,
-  "unreachableCount": 2,
+  "unreachableCount": 3,
   "outputPath": "src/data/seed/source-catalog.json",
   "sources": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "sourceId": "nefcorp",
-      "status": "matched",
-      "matchedLinks": 4,
+      "status": "unreachable",
+      "matchedLinks": 0,
       "keywordsUsed": 11
     },
     {

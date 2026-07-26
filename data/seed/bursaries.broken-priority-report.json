@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T01:31:57.280Z",
-  "totalBroken": 10,
+  "generatedAt": "2026-07-26T01:22:50.855Z",
+  "totalBroken": 12,
   "priorityLimit": 15,
   "topBrokenLinks": [
     {
@@ -11,11 +11,11 @@
       "link": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/about-us/careers.html",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
       "rank": 2,
@@ -25,116 +25,116 @@
       "link": "https://www.angloamerican.com/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
       "rank": 3,
-      "id": "b11",
-      "name": "Transnet Bursary Programme",
-      "provider": "Transnet",
-      "link": "https://www.transnet.net/Career/Pages/Bursaries.aspx",
-      "reason": "TypeError",
-      "status": 0,
-      "consecutiveBrokenChecks": 8,
-      "freshnessScore": 0,
-      "needsReview": true,
-      "quarantined": true,
-      "priorityScore": 900
-    },
-    {
-      "rank": 4,
       "id": "b12",
       "name": "Shoprite Bursary",
       "provider": "Shoprite Holdings",
       "link": "https://www.shopriteholdings.co.za/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "b13",
       "name": "Department of Agriculture Bursary",
       "provider": "DALRRD",
       "link": "https://www.dalrrd.gov.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "b14",
       "name": "Vodacom Bursary",
       "provider": "Vodacom",
       "link": "https://www.vodacom.com/about-us/careers.php",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "b15",
       "name": "Standard Bank Bursary",
       "provider": "Standard Bank",
       "link": "https://www.standardbank.com/sbg/standard-bank-group/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "b18",
       "name": "Capitec Bursary Programme",
       "provider": "Capitec Bank",
       "link": "https://www.capitecbank.co.za/about-us/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 8,
+      "consecutiveBrokenChecks": 9,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 900
+      "priorityScore": 1000
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "b10",
       "name": "Old Mutual Bursary",
       "provider": "Old Mutual",
       "link": "https://www.oldmutual.com/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 1,
+      "consecutiveBrokenChecks": 2,
       "freshnessScore": 0,
-      "needsReview": false,
-      "quarantined": false,
-      "priorityScore": 200
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 300
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "scraped-oldmutual-fallback",
       "name": "Old Mutual Funding Listing",
       "provider": "Old Mutual",
       "link": "https://www.oldmutual.com",
+      "reason": "http-403",
+      "status": 403,
+      "consecutiveBrokenChecks": 2,
+      "freshnessScore": 0,
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 300
+    },
+    {
+      "rank": 10,
+      "id": "scraped-nefcorp-fallback",
+      "name": "NEFCORP Funding Listing",
+      "provider": "NEFCORP",
+      "link": "https://www.nefcorp.co.za",
       "reason": "http-403",
       "status": 403,
       "consecutiveBrokenChecks": 1,
@@ -142,6 +142,34 @@
       "needsReview": false,
       "quarantined": false,
       "priorityScore": 200
+    },
+    {
+      "rank": 11,
+      "id": "scraped-nefcorp-https-www-nefcorp-co-za-products-ser",
+      "name": "NEFCORP: Non-financial business support",
+      "provider": "NEFCORP",
+      "link": "https://www.nefcorp.co.za/products-services/non-financial-business-support/",
+      "reason": "http-403",
+      "status": 403,
+      "consecutiveBrokenChecks": 1,
+      "freshnessScore": 59,
+      "needsReview": false,
+      "quarantined": false,
+      "priorityScore": 141
+    },
+    {
+      "rank": 12,
+      "id": "scraped-nefcorp-https-www-nefcorp-co-za-covid-19-bus",
+      "name": "NEFCORP: COVID-19 Business Funding",
+      "provider": "NEFCORP",
+      "link": "https://www.nefcorp.co.za/covid-19-business-funding/",
+      "reason": "http-403",
+      "status": 403,
+      "consecutiveBrokenChecks": 1,
+      "freshnessScore": 59,
+      "needsReview": false,
+      "quarantined": false,
+      "priorityScore": 141
     }
   ]
 }

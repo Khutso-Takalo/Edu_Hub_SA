@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T01:31:57.280Z",
-  "totalChecked": 25,
-  "healthy": 15,
-  "broken": 10,
-  "quarantined": 8,
+  "generatedAt": "2026-07-26T01:22:50.854Z",
+  "totalChecked": 26,
+  "healthy": 14,
+  "broken": 12,
+  "quarantined": 9,
   "recoveredOnRetry": 0,
   "quarantineFreshnessThreshold": 65,
   "quarantineFailureStreak": 2,
@@ -37,8 +37,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 8,
-      "freshnessAfter": 10
+      "freshnessBefore": 10,
+      "freshnessAfter": 12
     },
     {
       "id": "b3",
@@ -110,8 +110,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -125,8 +125,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -154,26 +154,26 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 2,
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 0,
       "freshnessAfter": 0
     },
     {
       "id": "b11",
       "name": "Transnet Bursary Programme",
       "link": "https://www.transnet.net/Career/Pages/Bursaries.aspx",
-      "ok": false,
-      "status": 0,
-      "reason": "TypeError",
-      "attempts": 2,
+      "ok": true,
+      "status": 200,
+      "reason": "ok",
+      "attempts": 1,
       "recoveredOnRetry": false,
-      "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "quarantined": false,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 0,
       "freshnessBefore": 0,
-      "freshnessAfter": 0
+      "freshnessAfter": 2
     },
     {
       "id": "b12",
@@ -185,8 +185,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -200,8 +200,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -215,8 +215,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -230,8 +230,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 79,
-      "freshnessAfter": 81
+      "freshnessBefore": 81,
+      "freshnessAfter": 83
     },
     {
       "id": "b18",
@@ -275,8 +275,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 7,
-      "brokenChecksAfter": 8,
+      "brokenChecksBefore": 8,
+      "brokenChecksAfter": 9,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -297,7 +297,7 @@
     },
     {
       "id": "scraped-sasol-ff27906215",
-      "name": "Sasol: Graduates",
+      "name": "Sasol: Learn More",
       "link": "https://www.sasol.com/careers/graduates",
       "ok": true,
       "status": 200,
@@ -334,9 +334,9 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -344,31 +344,31 @@
       "id": "scraped-nefcorp-https-www-nefcorp-co-za-products-ser",
       "name": "NEFCORP: Non-financial business support",
       "link": "https://www.nefcorp.co.za/products-services/non-financial-business-support/",
-      "ok": true,
-      "status": 200,
-      "reason": "ok",
-      "attempts": 1,
+      "ok": false,
+      "status": 403,
+      "reason": "http-403",
+      "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": false,
       "brokenChecksBefore": 0,
-      "brokenChecksAfter": 0,
-      "freshnessBefore": 92,
-      "freshnessAfter": 94
+      "brokenChecksAfter": 1,
+      "freshnessBefore": 94,
+      "freshnessAfter": 59
     },
     {
       "id": "scraped-nefcorp-https-www-nefcorp-co-za-covid-19-bus",
       "name": "NEFCORP: COVID-19 Business Funding",
       "link": "https://www.nefcorp.co.za/covid-19-business-funding/",
-      "ok": true,
-      "status": 200,
-      "reason": "ok",
-      "attempts": 1,
+      "ok": false,
+      "status": 403,
+      "reason": "http-403",
+      "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": false,
       "brokenChecksBefore": 0,
-      "brokenChecksAfter": 0,
-      "freshnessBefore": 92,
-      "freshnessAfter": 94
+      "brokenChecksAfter": 1,
+      "freshnessBefore": 94,
+      "freshnessAfter": 59
     },
     {
       "id": "scraped-sasol-7daa2989be",
@@ -382,8 +382,23 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 96,
-      "freshnessAfter": 98
+      "freshnessBefore": 92,
+      "freshnessAfter": 94
+    },
+    {
+      "id": "scraped-nefcorp-fallback",
+      "name": "NEFCORP Funding Listing",
+      "link": "https://www.nefcorp.co.za",
+      "ok": false,
+      "status": 403,
+      "reason": "http-403",
+      "attempts": 2,
+      "recoveredOnRetry": false,
+      "quarantined": false,
+      "brokenChecksBefore": 0,
+      "brokenChecksAfter": 1,
+      "freshnessBefore": 20,
+      "freshnessAfter": 0
     }
   ]
 }
