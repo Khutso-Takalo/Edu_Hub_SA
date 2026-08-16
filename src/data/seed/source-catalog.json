@@ -6,7 +6,7 @@
     "layer": "opportunity",
     "priority": "highest",
     "status": "matched",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [
       {
         "url": "http://meanstest.nsfas.org.za/nsfas/index.html",
@@ -34,7 +34,7 @@
     "layer": "opportunity",
     "priority": "high",
     "status": "fallback",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "job",
@@ -58,7 +58,7 @@
     "layer": "alternative-funding",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "funding",
@@ -82,7 +82,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "paper",
@@ -107,7 +107,7 @@
     "layer": "resources",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [
       {
         "url": "https://www.siyavula.com/set-preferences/session?country_code=ZA",
@@ -146,7 +146,7 @@
     "layer": "trust-safety",
     "priority": "high",
     "status": "unreachable",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [],
     "keywordsUsed": [
       "fraud",
@@ -169,7 +169,7 @@
     "layer": "wellbeing",
     "priority": "high",
     "status": "matched",
-    "checkedAt": "2026-07-26T01:21:41.153Z",
+    "checkedAt": "2026-08-16T00:27:33.404Z",
     "matchedLinks": [
       {
         "url": "https://www.sadag.org/index.php?option=com_content&amp;view=article&amp;id=2973&amp;Itemid=446",

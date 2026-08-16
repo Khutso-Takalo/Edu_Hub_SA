@@ -5,13 +5,13 @@
     "provider": "NSFAS",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.nsfas.org.za",
     "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 55
   },
   {
@@ -20,13 +20,13 @@
     "provider": "Sasol",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.sasol.com/index.php/careers/graduates",
     "description": "Auto-discovered from https://www.sasol.com",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 92
   },
   {
@@ -35,13 +35,13 @@
     "provider": "Sasol",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.sasol.com/careers/graduates",
     "description": "Auto-discovered from https://www.sasol.com",
     "minAPS": 0,
     "verificationSource": "scraped",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 92
   },
   {
@@ -50,13 +50,13 @@
     "provider": "Eskom",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.eskom.co.za",
     "description": "Source page was reachable but no bursary-specific links were detected. Manual review recommended.",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 55
   },
   {
@@ -65,13 +65,13 @@
     "provider": "Old Mutual",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.oldmutual.com",
     "description": "Scrape fallback generated due to access failure: Error: HTTP 403",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 20
   },
   {
@@ -80,13 +80,13 @@
     "provider": "NEFCORP",
     "field": "All Fields",
     "eligibility": "Check official source for current eligibility criteria.",
-    "deadline": "2026-10-09",
+    "deadline": "2026-10-30",
     "amount": "See source",
     "link": "https://www.nefcorp.co.za",
     "description": "Scrape fallback generated due to access failure: Error: HTTP 403",
     "minAPS": 0,
     "verificationSource": "community",
-    "lastVerified": "2026-07-26T01:21:49.717Z",
+    "lastVerified": "2026-08-16T00:27:42.350Z",
     "freshnessScore": 20
   }
 ]

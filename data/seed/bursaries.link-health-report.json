@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T01:22:50.854Z",
+  "generatedAt": "2026-08-16T00:28:54.536Z",
   "totalChecked": 26,
   "healthy": 14,
   "broken": 12,
-  "quarantined": 9,
+  "quarantined": 12,
   "recoveredOnRetry": 0,
   "quarantineFreshnessThreshold": 65,
   "quarantineFailureStreak": 2,
@@ -37,8 +37,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 10,
-      "freshnessAfter": 12
+      "freshnessBefore": 12,
+      "freshnessAfter": 14
     },
     {
       "id": "b3",
@@ -110,8 +110,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -125,8 +125,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -155,8 +155,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -170,10 +170,10 @@
       "attempts": 1,
       "recoveredOnRetry": false,
       "quarantined": false,
-      "brokenChecksBefore": 8,
+      "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 0,
-      "freshnessAfter": 2
+      "freshnessBefore": 2,
+      "freshnessAfter": 4
     },
     {
       "id": "b12",
@@ -185,8 +185,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -200,8 +200,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -215,8 +215,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -230,8 +230,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 81,
-      "freshnessAfter": 83
+      "freshnessBefore": 83,
+      "freshnessAfter": 85
     },
     {
       "id": "b18",
@@ -275,8 +275,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -335,8 +335,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -349,11 +349,11 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 94,
-      "freshnessAfter": 59
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 59,
+      "freshnessAfter": 24
     },
     {
       "id": "scraped-nefcorp-https-www-nefcorp-co-za-covid-19-bus",
@@ -364,11 +364,11 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
-      "freshnessBefore": 94,
-      "freshnessAfter": 59
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
+      "freshnessBefore": 59,
+      "freshnessAfter": 24
     },
     {
       "id": "scraped-sasol-7daa2989be",
@@ -394,9 +394,9 @@
       "reason": "http-403",
       "attempts": 2,
       "recoveredOnRetry": false,
-      "quarantined": false,
-      "brokenChecksBefore": 0,
-      "brokenChecksAfter": 1,
+      "quarantined": true,
+      "brokenChecksBefore": 1,
+      "brokenChecksAfter": 2,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     }

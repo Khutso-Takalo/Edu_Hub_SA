@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:22:50.855Z",
+  "generatedAt": "2026-08-16T00:28:54.536Z",
   "totalBroken": 12,
   "priorityLimit": 15,
   "topBrokenLinks": [
@@ -11,11 +11,11 @@
       "link": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/about-us/careers.html",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 2,
@@ -25,11 +25,11 @@
       "link": "https://www.angloamerican.com/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 3,
@@ -39,11 +39,11 @@
       "link": "https://www.shopriteholdings.co.za/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 4,
@@ -53,11 +53,11 @@
       "link": "https://www.dalrrd.gov.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 5,
@@ -67,11 +67,11 @@
       "link": "https://www.vodacom.com/about-us/careers.php",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 6,
@@ -81,11 +81,11 @@
       "link": "https://www.standardbank.com/sbg/standard-bank-group/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 7,
@@ -95,11 +95,11 @@
       "link": "https://www.capitecbank.co.za/about-us/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 9,
+      "consecutiveBrokenChecks": 10,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1000
+      "priorityScore": 1100
     },
     {
       "rank": 8,
@@ -109,11 +109,11 @@
       "link": "https://www.oldmutual.com/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 2,
+      "consecutiveBrokenChecks": 3,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 300
+      "priorityScore": 400
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "link": "https://www.oldmutual.com",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 2,
+      "consecutiveBrokenChecks": 3,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 300
+      "priorityScore": 400
     },
     {
       "rank": 10,
@@ -137,11 +137,11 @@
       "link": "https://www.nefcorp.co.za",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 1,
+      "consecutiveBrokenChecks": 2,
       "freshnessScore": 0,
-      "needsReview": false,
-      "quarantined": false,
-      "priorityScore": 200
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 300
     },
     {
       "rank": 11,
@@ -151,11 +151,11 @@
       "link": "https://www.nefcorp.co.za/products-services/non-financial-business-support/",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 1,
-      "freshnessScore": 59,
-      "needsReview": false,
-      "quarantined": false,
-      "priorityScore": 141
+      "consecutiveBrokenChecks": 2,
+      "freshnessScore": 24,
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 276
     },
     {
       "rank": 12,
@@ -165,11 +165,11 @@
       "link": "https://www.nefcorp.co.za/covid-19-business-funding/",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 1,
-      "freshnessScore": 59,
-      "needsReview": false,
-      "quarantined": false,
-      "priorityScore": 141
+      "consecutiveBrokenChecks": 2,
+      "freshnessScore": 24,
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 276
     }
   ]
 }
