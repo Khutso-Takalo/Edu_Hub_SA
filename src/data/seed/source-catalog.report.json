@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-13T01:32:16.914Z",
+  "generatedAt": "2026-09-27T02:00:23.892Z",
   "registryPath": "src/data/sourceRegistry.json",
   "sourceCount": 7,
-  "matchedCount": 4,
+  "matchedCount": 3,
   "fallbackCount": 1,
-  "unreachableCount": 2,
+  "unreachableCount": 3,
   "outputPath": "src/data/seed/source-catalog.json",
   "sources": [
     {
       "sourceId": "nsfas",
-      "status": "matched",
-      "matchedLinks": 1,
+      "status": "unreachable",
+      "matchedLinks": 0,
       "keywordsUsed": 10
     },
     {

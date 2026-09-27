@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T01:33:24.506Z",
-  "totalBroken": 9,
+  "generatedAt": "2026-09-27T02:01:35.616Z",
+  "totalBroken": 10,
   "priorityLimit": 15,
   "topBrokenLinks": [
     {
@@ -11,11 +11,11 @@
       "link": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/about-us/careers.html",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
       "rank": 2,
@@ -25,11 +25,11 @@
       "link": "https://www.angloamerican.com/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
       "rank": 3,
@@ -39,11 +39,11 @@
       "link": "https://www.shopriteholdings.co.za/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
       "rank": 4,
@@ -53,11 +53,11 @@
       "link": "https://www.dalrrd.gov.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
       "rank": 5,
@@ -67,67 +67,81 @@
       "link": "https://www.vodacom.com/about-us/careers.php",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
       "rank": 6,
-      "id": "b15",
-      "name": "Standard Bank Bursary",
-      "provider": "Standard Bank",
-      "link": "https://www.standardbank.com/sbg/standard-bank-group/careers/students-and-graduates",
-      "reason": "http-404",
-      "status": 404,
-      "consecutiveBrokenChecks": 12,
-      "freshnessScore": 0,
-      "needsReview": true,
-      "quarantined": true,
-      "priorityScore": 1300
-    },
-    {
-      "rank": 7,
       "id": "b18",
       "name": "Capitec Bursary Programme",
       "provider": "Capitec Bank",
       "link": "https://www.capitecbank.co.za/about-us/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 12,
+      "consecutiveBrokenChecks": 13,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1300
+      "priorityScore": 1400
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "b10",
       "name": "Old Mutual Bursary",
       "provider": "Old Mutual",
       "link": "https://www.oldmutual.com/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "scraped-oldmutual-fallback",
       "name": "Old Mutual Funding Listing",
       "provider": "Old Mutual",
       "link": "https://www.oldmutual.com",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 5,
+      "consecutiveBrokenChecks": 6,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 600
+      "priorityScore": 700
+    },
+    {
+      "rank": 9,
+      "id": "b2",
+      "name": "NSFAS Bursary",
+      "provider": "National Student Financial Aid Scheme",
+      "link": "https://www.nsfas.org.za",
+      "reason": "TypeError",
+      "status": 0,
+      "consecutiveBrokenChecks": 1,
+      "freshnessScore": 0,
+      "needsReview": false,
+      "quarantined": false,
+      "priorityScore": 200
+    },
+    {
+      "rank": 10,
+      "id": "scraped-nsfas-fallback",
+      "name": "NSFAS Funding Listing",
+      "provider": "NSFAS",
+      "link": "https://www.nsfas.org.za",
+      "reason": "TypeError",
+      "status": 0,
+      "consecutiveBrokenChecks": 1,
+      "freshnessScore": 0,
+      "needsReview": false,
+      "quarantined": false,
+      "priorityScore": 200
     }
   ]
 }
