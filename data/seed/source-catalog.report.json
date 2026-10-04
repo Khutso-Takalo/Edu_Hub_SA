@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T02:00:23.892Z",
+  "generatedAt": "2026-10-04T02:57:10.143Z",
   "registryPath": "src/data/sourceRegistry.json",
   "sourceCount": 7,
-  "matchedCount": 3,
-  "fallbackCount": 1,
+  "matchedCount": 4,
+  "fallbackCount": 0,
   "unreachableCount": 3,
   "outputPath": "src/data/seed/source-catalog.json",
   "sources": [
@@ -15,8 +15,8 @@
     },
     {
       "sourceId": "sayouth",
-      "status": "fallback",
-      "matchedLinks": 0,
+      "status": "matched",
+      "matchedLinks": 4,
       "keywordsUsed": 11
     },
     {

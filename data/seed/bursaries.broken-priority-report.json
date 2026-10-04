@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T02:01:35.616Z",
-  "totalBroken": 10,
+  "generatedAt": "2026-10-04T02:58:22.206Z",
+  "totalBroken": 11,
   "priorityLimit": 15,
   "topBrokenLinks": [
     {
@@ -11,11 +11,11 @@
       "link": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/about-us/careers.html",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 2,
@@ -25,11 +25,11 @@
       "link": "https://www.angloamerican.com/careers/students-and-graduates",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 3,
@@ -39,11 +39,11 @@
       "link": "https://www.shopriteholdings.co.za/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 4,
@@ -53,11 +53,11 @@
       "link": "https://www.dalrrd.gov.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 5,
@@ -67,11 +67,11 @@
       "link": "https://www.vodacom.com/about-us/careers.php",
       "reason": "http-404",
       "status": 404,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 6,
@@ -81,11 +81,11 @@
       "link": "https://www.capitecbank.co.za/about-us/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 13,
+      "consecutiveBrokenChecks": 14,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 1400
+      "priorityScore": 1500
     },
     {
       "rank": 7,
@@ -95,11 +95,11 @@
       "link": "https://www.oldmutual.com/careers",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 6,
+      "consecutiveBrokenChecks": 7,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 700
+      "priorityScore": 800
     },
     {
       "rank": 8,
@@ -109,11 +109,11 @@
       "link": "https://www.oldmutual.com",
       "reason": "http-403",
       "status": 403,
-      "consecutiveBrokenChecks": 6,
+      "consecutiveBrokenChecks": 7,
       "freshnessScore": 0,
       "needsReview": true,
       "quarantined": true,
-      "priorityScore": 700
+      "priorityScore": 800
     },
     {
       "rank": 9,
@@ -123,11 +123,11 @@
       "link": "https://www.nsfas.org.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 1,
+      "consecutiveBrokenChecks": 2,
       "freshnessScore": 0,
-      "needsReview": false,
-      "quarantined": false,
-      "priorityScore": 200
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 300
     },
     {
       "rank": 10,
@@ -137,11 +137,25 @@
       "link": "https://www.nsfas.org.za",
       "reason": "TypeError",
       "status": 0,
-      "consecutiveBrokenChecks": 1,
+      "consecutiveBrokenChecks": 2,
       "freshnessScore": 0,
+      "needsReview": true,
+      "quarantined": true,
+      "priorityScore": 300
+    },
+    {
+      "rank": 11,
+      "id": "b6",
+      "name": "Discovery Health Bursary",
+      "provider": "Discovery Health",
+      "link": "https://www.discovery.co.za/corporate/careers",
+      "reason": "http-503",
+      "status": 503,
+      "consecutiveBrokenChecks": 1,
+      "freshnessScore": 65,
       "needsReview": false,
       "quarantined": false,
-      "priorityScore": 200
+      "priorityScore": 135
     }
   ]
 }
