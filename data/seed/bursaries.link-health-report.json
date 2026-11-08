@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:45:30.896Z",
+  "generatedAt": "2026-11-08T02:51:45.090Z",
   "totalChecked": 27,
   "healthy": 16,
   "broken": 11,
@@ -20,10 +20,10 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 1,
-      "brokenChecksAfter": 2,
-      "freshnessBefore": 65,
-      "freshnessAfter": 30
+      "brokenChecksBefore": 2,
+      "brokenChecksAfter": 3,
+      "freshnessBefore": 30,
+      "freshnessAfter": 0
     },
     {
       "id": "b2",
@@ -35,8 +35,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 3,
-      "brokenChecksAfter": 4,
+      "brokenChecksBefore": 4,
+      "brokenChecksAfter": 5,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -97,8 +97,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 67,
-      "freshnessAfter": 69
+      "freshnessBefore": 69,
+      "freshnessAfter": 71
     },
     {
       "id": "b7",
@@ -110,8 +110,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -125,8 +125,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -155,8 +155,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -172,8 +172,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 14,
-      "freshnessAfter": 16
+      "freshnessBefore": 16,
+      "freshnessAfter": 18
     },
     {
       "id": "b12",
@@ -185,8 +185,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -200,8 +200,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -215,8 +215,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -232,8 +232,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 6,
-      "freshnessAfter": 8
+      "freshnessBefore": 8,
+      "freshnessAfter": 10
     },
     {
       "id": "b16",
@@ -262,8 +262,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 95,
-      "freshnessAfter": 97
+      "freshnessBefore": 97,
+      "freshnessAfter": 99
     },
     {
       "id": "b18",
@@ -275,8 +275,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 15,
-      "brokenChecksAfter": 16,
+      "brokenChecksBefore": 16,
+      "brokenChecksAfter": 17,
       "freshnessBefore": 0,
       "freshnessAfter": 0
     },
@@ -290,14 +290,14 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 3,
-      "brokenChecksAfter": 4,
+      "brokenChecksBefore": 4,
+      "brokenChecksAfter": 5,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
     {
       "id": "scraped-sasol-ff27906215",
-      "name": "Sasol: Graduates",
+      "name": "Sasol: Learn More",
       "link": "https://www.sasol.com/careers/graduates",
       "ok": true,
       "status": 200,
@@ -335,8 +335,8 @@
       "attempts": 2,
       "recoveredOnRetry": false,
       "quarantined": true,
-      "brokenChecksBefore": 8,
-      "brokenChecksAfter": 9,
+      "brokenChecksBefore": 9,
+      "brokenChecksAfter": 10,
       "freshnessBefore": 20,
       "freshnessAfter": 0
     },
@@ -382,8 +382,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 96,
-      "freshnessAfter": 98
+      "freshnessBefore": 92,
+      "freshnessAfter": 94
     },
     {
       "id": "scraped-nefcorp-fallback",
@@ -397,8 +397,8 @@
       "quarantined": false,
       "brokenChecksBefore": 0,
       "brokenChecksAfter": 0,
-      "freshnessBefore": 10,
-      "freshnessAfter": 12
+      "freshnessBefore": 12,
+      "freshnessAfter": 14
     },
     {
       "id": "scraped-sasol-f17417e0af",
